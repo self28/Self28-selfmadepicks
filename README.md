@@ -1,2 +1,3 @@
 # SelfMadePicks
-A Next.js app powered by Tailwind CSS.
+
+Advanced AI-powered parlay and betting insights app.
