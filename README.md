@@ -1,3 +1,2 @@
-# SelfMadePicks App
-
-The ultimate AI-powered betting platform.
+# SelfMadePicks™
+Your elite AI-powered sports betting app.
